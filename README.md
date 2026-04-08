@@ -5,7 +5,7 @@ In January 2027 I'll be starting my internship (LIA) — so if you're looking fo
 
 ## 🚀 Projects
 
-### [Sales Forecast Pipeline](https://github.com/FellanNokes/sales-forecast)
+### [Sales Forecast Dataplatform](https://github.com/FellanNokes/sales-forecast)
 Agile group project using SCRUM, where we rotated roles (Product Owner, Scrum Master, Developer).  
 My focus was building the pipeline for fake sales data using **Docker** and **Kafka**.
 
