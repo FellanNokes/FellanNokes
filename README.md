@@ -7,7 +7,7 @@ In January 2027 I'll be starting my internship (LIA) — so if you're looking fo
 
 ### [Sales Forecast Dataplatform](https://github.com/FellanNokes/sales-forecast)
 Agile group project using SCRUM, where we rotated roles (Product Owner, Scrum Master, Developer).  
-My focus was building the pipeline for fake sales data using **Docker** and **Kafka**.
+My focus was building the pipeline and code to generate fake sales data using **Docker** and **Kafka**.
 
 ### [Data Modeling](https://github.com/FellanNokes/data_modeling_lab_felix_kjellberg)
 Designed a data model achieving 3NF — including conceptual, logical, and physical models.
