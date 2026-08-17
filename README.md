@@ -4,7 +4,7 @@ I'm driven by building robust data pipelines and transforming raw data into insi
  
 - 🔧 **Focus:** Data pipelines, SQL & dashboards
 - 🎓 **Education:** Data Engineer @ STI (Graduate 2027)
-- 🔍 **LIA:** Looking for an exciting internship position for spring 2027!
+- 🔍 **LIA:** Looking for an exciting internship position for spring 2027 (11 january och 28 may 2027 (vecka 2–21))
 ---
  
 ## Projects
